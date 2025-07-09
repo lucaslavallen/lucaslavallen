@@ -8,7 +8,6 @@
 - 🎓 3rd-year student of **Information Systems** at UADER – Entre Ríos, Argentina
 - 🧠 Passionate about **Cybersecurity**, self-taught through platforms and online academies
 - 🛠 Completed courses from **OpenBootcamp**, **Oracle Next Education**, **Argentina Programa**, and **Hack4u Cybersecurity Academy**
-- 👨‍🔧 Former maintenance technician at Soychu (Gualeguay), focusing on preventative repair and machine upkeep
 - 🌱 Constantly learning and building tools with **Python**, **PHP**, and web technologies (HTML/CSS)
 - 💬 Strong communication, teamwork, problem-solving, and proactive mindset
 
@@ -47,9 +46,7 @@
 
 ### 📫 How to Reach Me
 
-- 📍 Concepción del Uruguay, Entre Ríos, Argentina  
 - 📧 luquilavallen@gmail.com  
-- 📱 +54 3442 525615  
 - 💼 [LinkedIn](https://linkedin.com/in/lucaslavallen)
 ---
 
