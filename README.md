@@ -44,6 +44,8 @@
 
 > “El conocimiento se comparte, el código se libera, la curiosidad no se detiene.”
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslavallen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **lucaslavallen/lucaslavallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
