@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🎓 2nd-year student of **Computer Science (Licenciatura en Sistemas)**
+- 🎓 3rd-year student of **Computer Science (Licenciatura en Sistemas)**
 - 🧠 Self-taught in **ethical hacking** and **bug bounty**
 - 👨‍💻 I build personal projects using **Python**, **PHP**, and web technologies
 - 🌱 Currently learning how to develop security tools and automation scripts
