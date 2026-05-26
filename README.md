@@ -1,53 +1,68 @@
-<h1 align="center">Hi there 👋, I'm Lucas Lavallen</h1>
-<h3 align="center">Computer Science Student | Cybersecurity Enthusiast | Python Developer</h3>
+<div align="center">
+
+![Disponible para trabajar](https://img.shields.io/badge/🟢_DISPONIBLE_PARA_TRABAJAR-000000?style=flat-square)
+
+# Lucas Lavallen
+
+**Estudiante de Sistemas de Información · Especialización en Ciberseguridad**  
+UADER — Entre Ríos, Argentina
+
+[![Email](https://img.shields.io/badge/luquilavallen@gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:luquilavallen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/lucaslavallen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucaslavallen)
+
+</div>
 
 ---
 
-### 🚀 About Me
+## Sobre mí
 
-- 🎓 3rd-year student of **Information Systems** at UADER – Entre Ríos, Argentina
-- 🧠 Passionate about **Cybersecurity**, self-taught through platforms and online academies
-- 🛠 Completed courses from **OpenBootcamp**, **Oracle Next Education**, **Argentina Programa**, and **Hack4u Cybersecurity Academy**
-- 🌱 Constantly learning and building tools with **Python**, **PHP**, and web technologies (HTML/CSS)
-- 💬 Strong communication, teamwork, problem-solving, and proactive mindset
+Estudiante de 3.° año de Sistemas de Información con orientación en **ciberseguridad ofensiva y defensiva**. Me formé de manera autodidacta a través de academias especializadas y busco mi primera oportunidad laboral en el área de seguridad informática o desarrollo. Proactivo, orientado a resultados y con fuerte capacidad de aprendizaje continuo.
 
 ---
 
-### 🛠 Technologies & Tools
+## Áreas de enfoque
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-</p>
+| 🔐 Ciberseguridad | 🖥️ Scripting & Automatización | 🌐 Desarrollo Web |
+|---|---|---|
+| Ethical hacking, pentesting y fundamentos de seguridad ofensiva | Python y Bash para desarrollo de herramientas y automatización de tareas | PHP, HTML, CSS — desarrollo fullstack orientado a backend |
 
 ---
 
-### 🧠 Courses Completed
+## Stack técnico
 
-- 🔐 **Hack4u Academy** – Ethical Hacking and cybersecurity fundamentals  
-- 🧰 **Oracle Next Education (ONE)** – Fullstack Web Development  
-- 🖥️ **OpenBootcamp** – Web programming  
-- 🇦🇷 **Argentina Programa 4.0** – National software development training program  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslavallen&show_icons=true&theme=radical" alt="lucaslavallen" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📫 How to Reach Me
+## Formación complementaria
 
-- 📧 luquilavallen@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/lucaslavallen)
+- 🔒 **Hack4u Academy** — Ethical hacking y fundamentos de ciberseguridad
+- 🌐 **Oracle Next Education (ONE)** — Desarrollo web fullstack
+- 🖥️ **OpenBootcamp** — Programación web
+- 🇦🇷 **Argentina Programa 4.0** — Programa nacional de formación en desarrollo de software
+
 ---
 
-> “Knowledge is meant to be shared, code is meant to be open, and curiosity never sleeps.”
+## Proyectos
+
+> 🚧 Proyectos en desarrollo — próximamente disponibles en este repositorio.
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaslavallen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub de Lucas Lavallen" />
+</div>
+
+---
+
+<div align="center">
+  <sub><i>"El conocimiento se comparte, el código es abierto y la curiosidad nunca duerme."</i></sub>
+</div>
