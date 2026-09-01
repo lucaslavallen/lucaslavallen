@@ -4,7 +4,7 @@
 
 # Lucas Lavallen
 
-**Estudiante de Sistemas de Información · Especialización en Ciberseguridad**  
+**Estudiante de Sistemas de Información ·apacionado de Ciberseguridad**  
 UADER — Entre Ríos, Argentina
 
 [![Email](https://img.shields.io/badge/luquilavallen@gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:luquilavallen@gmail.com)
@@ -22,7 +22,7 @@ Estudiante de 3.° año de Sistemas de Información con orientación en **cibers
 
 ## Áreas de enfoque
 
-| 🔐 Ciberseguridad | 🖥️ Scripting & Automatización | 🌐 Desarrollo Web |
+| 🔐 Ciberseguridad | 🖥️ Scripting  | 🌐 Desarrollo Web |
 |---|---|---|
 | Ethical hacking, pentesting y fundamentos de seguridad ofensiva | Python y Bash para desarrollo de herramientas y automatización de tareas | PHP, HTML, CSS — desarrollo fullstack orientado a backend |
 
